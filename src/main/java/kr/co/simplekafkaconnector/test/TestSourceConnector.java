@@ -1,4 +1,4 @@
-package kr.co.simplekafkaconnector;
+package kr.co.simplekafkaconnector.test;
 
 import org.apache.kafka.common.config.ConfigDef;
 import org.apache.kafka.connect.connector.Task;

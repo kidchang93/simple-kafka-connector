@@ -1,4 +1,4 @@
-package kr.co.simplekafkaconnector;
+package kr.co.simplekafkaconnector.test;
 
 import org.apache.kafka.connect.source.SourceRecord;
 import org.apache.kafka.connect.source.SourceTask;
